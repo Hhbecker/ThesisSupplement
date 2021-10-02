@@ -3,7 +3,7 @@ This repository contains the supplementary information and files for my Metageno
 
 Contents 
 
-BeckerThesis = thesis manuscript aand project description
+BeckerThesis = thesis manuscript and project description
 
 CommandLineTool.py = python tool developed for method 1 of part 2
 
